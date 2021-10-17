@@ -1,2 +1,2 @@
 # ReactProject
-# reactpractice
+- `npx`コマンドでreactをインストール 
